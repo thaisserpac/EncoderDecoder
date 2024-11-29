@@ -1,7 +1,7 @@
 //EncoderDecoder.java
 //Serpa Chaves:Thais:u34
 //Submission 03
-//Enconding abd Decoding Textfiles
+//Enconding and Decoding Textfiles
 
 /*
  * Program works as expected
